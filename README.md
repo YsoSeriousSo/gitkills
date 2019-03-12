@@ -1,4 +1,4 @@
 # gitkills
 gitkills
-Edit by Merge.
+Edit by Merging.
 Creating a new branch is quick and simple.
